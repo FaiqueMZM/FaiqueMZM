@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faiquemzm" alt="faiquemzm" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/faique_mzm" target="blank"><img src="https://img.shields.io/twitter/follow/faique_mzm?logo=twitter&style=for-the-badge" alt="faique_mzm" /></a> </p>
-
 - 📫 How to reach me **faiqueinaas@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1VabT15XhMZd-YOUoRijoPDDIoPGeTpS4/view?usp=drive_link](https://drive.google.com/file/d/1VabT15XhMZd-YOUoRijoPDDIoPGeTpS4/view?usp=drive_link)
@@ -14,9 +12,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/faique_mzm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faique_mzm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/faique-inaas-mzm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/faique-inaas-mzm/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/faique.inaas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/faique.inaas/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/faique_mzm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/faique_mzm/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/faique-inaas-mzm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faique-inaas-mzm" height="30" width="40" /></a>
+<a href="https://fb.com/faique.inaas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faique.inaas" height="30" width="40" /></a>
+<a href="https://instagram.com/faique_mzm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faique_mzm" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faiquemzm&show_icons=true&locale=en&layout=compact" alt="faiquemzm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faiquemzm&show_icons=true&locale=en" alt="faiquemzm" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faiquemzm&" alt="faiquemzm" /></p>
