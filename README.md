@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faique Inaas</h1>
-<h3 align="center">An Undergraduate Software Engineer from Sri Lanka</h3>
+<h3 align="center">Graduate Software Engineer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faiquemzm&label=Profile%20views&color=0e75b6&style=flat" alt="faiquemzm" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **faiqueinaas@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VabT15XhMZd-YOUoRijoPDDIoPGeTpS4/view?usp=drive_link](https://drive.google.com/file/d/1VabT15XhMZd-YOUoRijoPDDIoPGeTpS4/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1pxleDwwXOiN8JHQvwdd__y1kDZMugldU/view?usp=drive_link](https://drive.google.com/file/d/1pxleDwwXOiN8JHQvwdd__y1kDZMugldU/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
