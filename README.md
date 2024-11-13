@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning React JS, MondoDB and SpringBoot  
   
 
-- ⚡ Fun fact: I make spelling mistake while coding too often 😅   
+- ⚡ Fun fact: I make spelling mistakes while coding too often 😅   
   
 
 <br/>  
@@ -94,7 +94,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=faiquemzm&&style=flat-square" align="center" />
 </div>  
   
 
