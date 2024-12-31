@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning React JS, MongoDB and SpringBoot<br>🎯 Goals: Planning to be a Full Stack Developer<br>🎲 Fun fact: I often make spelling mistakes while coding and spend too much time on finding it</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning React JS, MongoDB and SpringBoot<br>🎯 Goals: Planning to be a Full Stack Developer<br>🎲 Fun fact: I often make spelling mistakes while coding and spend too much time finding it</p>
 
 ###
 
