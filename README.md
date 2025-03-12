@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">My name is Faique Inaas MZM<br>I'm a Graduate Software Engineer from Sri Lanka</h1>
+<h1 align="left">My name is Faique Inaas MZM<br>A Software Engineer Intern from Sri Lanka</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning React JS, MongoDB and SpringBoot<br>🎯 Goals: Planning to be a Full Stack Developer<br>🎲 Fun fact: I often make spelling mistakes while coding and spend too much time on finding it</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently expanding my skills on React JS and Express JS<br>🎯 Goals: Planning to be a Full Stack Developer<br>🎲 Fun fact: I often make small mistakes while coding and spend too much time on fixing it</p>
 
 ###
 
