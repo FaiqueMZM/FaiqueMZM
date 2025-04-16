@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">My name is Faique Inaas MZM<br>A Software Engineer Intern from Sri Lanka</h1>
+<h1 align="left">My name is Faique Inaas MZM<br>An Aspiring Full Stack Developer from Sri Lanka</h1>
 
 ###
 
@@ -66,6 +66,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
 </div>
 
 ###
